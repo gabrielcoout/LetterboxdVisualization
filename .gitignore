@@ -2,3 +2,6 @@ letterboxd/
 env
 geckodriver.log
 *.csv
+*.html
+test.ipynb
+data
